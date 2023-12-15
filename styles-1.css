@@ -260,6 +260,7 @@ body {
 .information {
 	min-height: 100vh;
 	background-color: #161616;
+	padding-bottom: 5%;
 }
 
 .who-i-am {
